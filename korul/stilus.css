@@ -1,0 +1,39 @@
+#container{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background-color: grey;
+}
+
+#animate{
+    width: 50px;
+    height: 50px;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    background-color: crimson;
+}
+#animate2{
+    width: 50px;
+    height: 50px;
+    top: 350px;
+    left: 0px;
+    position: absolute;
+    background-color: orangered;
+}
+#animate3{
+    width: 50px;
+    height: 50px;
+    top: 350px;
+    left: 350px;
+    position: absolute;
+    background-color: orange;
+}
+#animate4{
+    width: 50px;
+    height: 50px;
+    top: 0px;
+    left: 350px;
+    position: absolute;
+    background-color: yellow;
+}
